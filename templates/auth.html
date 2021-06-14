@@ -1,0 +1,127 @@
+
+<html lang="en">
+<head>
+    <style>
+        body{
+            margin-top: 15vh;
+            font-size: 2vh;
+            color: white;
+        }
+        ul{
+            text-align:center;
+
+        }
+        ul.login_signup_title li{
+            display: inline;
+            margin: 7vh;
+        }
+
+        li.form{
+            display: block;
+        }
+        .forms{
+            margin-top: 10vh;
+        }
+        input{
+            width: 20vh;
+            height: 3vh;
+            border: none;
+            background-color: #094067;
+            border-bottom: 1px solid black;
+        }
+
+    </style>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div class="container" style="background-color: #094067; margin-left:40rem; margin-right:40rem; padding: 2rem; border-radius: 1rem; height: 30rem">
+<div class="login_signup">
+    <ul class="login_signup_title">
+        <li class="signup_title" onclick="signup();" style="border-bottom: white solid 3px" id="signup_title">Signup</li>
+        <li class="signin_slider" onclick="signin();" style="border-bottom: none" id="signin_title">Signin</li>
+    </ul>
+</div>
+<div class="forms">
+<form method="post" class="signup" id="signup" style="display:block;">
+    {% csrf_token %}
+    <ul>
+        <li class="form">
+            <p>Name</p>
+            <input name="name" class="name">
+        </li>
+        <li class="form">
+            <p>Email</p>
+            <input name="email" class="email">
+        </li>
+        <li class="form">
+            <p>Password</p>
+            <input type="password" name="password" class="password" id="id_password">
+            <p onclick="show_pass()" style="font-size: 1.2vh">showpassword</p>
+        </li>
+
+
+    <button type="submit">Signup</button>
+        </ul>
+</form>
+
+<form method="post" class="signin" id="signin" style="display:none;">
+    {% csrf_token %}
+    <ul>
+        <li class="form">
+            <p>Name</p>
+            <input name="name" class="name">
+        </li>
+        <li class="form">
+            <p>PassWord</p>
+            <input type="password" name="password" class="password" id="id_password1">
+            <p onclick="show_pass1()" style="font-size: 1.2vh">showpassword</p>
+        </li>
+    <button type="submit">login</button>
+        </ul>
+</form>
+</div>
+</div>
+
+</body>
+</html>
+
+<script>
+    function signin(){
+        var signin = document.getElementById("signin");
+        var signup = document.getElementById("signup");
+        var signup_title = document.getElementById("signup_title");
+        var signin_title = document.getElementById("signin_title");
+            signin.style.display = "block";
+            signup.style.display = "none";
+            signin_title.style.borderBottom = "white solid 3px";
+            signup_title.style.borderBottom = "none";
+    }
+    function signup(){
+        var signin = document.getElementById("signin");
+        var signup = document.getElementById("signup");
+        var signup_title = document.getElementById("signup_title");
+        var signin_title = document.getElementById("signin_title");
+            signin.style.display = "none";
+            signup.style.display = "block";
+            signin_title.style.borderBottom = "none";
+            signup_title.style.borderBottom = "white solid 3px";
+    }
+    function show_pass() {
+        var pass = document.getElementById("id_password");
+        if (pass.type === "password") {
+            pass.type = "text";
+        } else {
+            pass.type = "password";
+        }
+    }
+    function show_pass1() {
+        var pass = document.getElementById("id_password1");
+        if (pass.type === "password") {
+            pass.type = "text";
+        } else {
+            pass.type = "password";
+        }
+    }
+</script>

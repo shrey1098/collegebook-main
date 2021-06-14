@@ -1,0 +1,438 @@
+college_name,location,year,specialization,state,owned
+"Centurion University of Technology and Management, Andhra Pradesh ",Visakhapatnam ,2017,"Technology, Management ",Andhra Pradesh,P
+Krea University ,Sri City ,2018,Liberal arts ,Andhra Pradesh,P
+Saveetha Amaravati University ,Amaravati ,2018,Health sciences ,Andhra Pradesh,P
+"SRM University, Andhra Pradesh ",Amaravati ,2017,General ,Andhra Pradesh,P
+VIT-AP University ,Amaravati ,2017,"Technology, Management ",Andhra Pradesh,P
+Arunachal University of Studies ,Namsai ,2012,General ,Arunachal Pradesh,P
+Arunodaya University ,Itanagar ,2014,General ,Arunachal Pradesh,P
+Himalayan University ,Itanagar ,2013,General ,Arunachal Pradesh,P
+Indira Gandhi Technological and Medical Sciences University ,Ziro ,2012,General ,Arunachal Pradesh,P
+North East Frontier Technical University ,Aalo ,2014,General ,Arunachal Pradesh,P
+Venkateshwara Open University ,Naharlagun ,2012,General ,Arunachal Pradesh,P
+Assam Don Bosco University,Guwahati ,2009,General ,Assam,P
+Assam Down Town University ,Guwahati ,2010,General ,Assam,P
+Kaziranga University,Jorhat ,2012,General ,Assam,P
+Krishnaguru Adhyatmik Vishvavidyalaya,Sarthebari ,2017,General ,Assam,P
+Mahapurusha Srimanta Sankaradeva Viswavidyalaya ,Nagaon ,2013,Humanities ,Assam,P
+Royal Global University,Guwahati ,2013,General ,Assam,P
+Al-Karim University ,Katihar ,2018,Medicine ,Bihar,P
+"Amity University, Patna ",Patna ,2017,General ,Bihar,P
+"Dr. C.V. Raman University, Bihar ",Bhagwanpur ,2018,General ,Bihar,P
+Gopal Narayan Singh University ,Jamuhar ,2018,General ,Bihar,P
+K. K. University ,Nalanda ,2017,General ,Bihar,P
+Mata Gujri University ,Kishanganj ,2019,Medicine ,Bihar,P
+"Sandip University, Sijoul ",Madhubani ,2017,General ,Bihar,P
+AAFT University of Media and Arts ,Raipur ,2018,"Film, Media and Arts ",Chhattisgarh,P
+"Amity University, Raipur ",Raipur ,2014,General ,Chhattisgarh,P
+Dr. C.V. Raman University ,Kota ,2006,General ,Chhattisgarh,P
+"ICFAI University, Raipur ",Raipur ,2011,Management ,Chhattisgarh,P
+ISBM University ,Chhura ,2016,General ,Chhattisgarh,P
+"ITM University, Raipur ",Naya Raipur ,2012,General ,Chhattisgarh,P
+Kalinga University ,Raipur ,2012,General ,Chhattisgarh,P
+Maharishi University of Management and Technology ,Bilaspur ,2002,"Technology, Management ",Chhattisgarh,P
+MATS University ,Raipur ,2006,General ,Chhattisgarh,P
+O.P. Jindal University ,Raigarh ,2014,"Technology, Management ",Chhattisgarh,P
+Shri Rawatpura Sarkar University ,Raipur ,2018,General ,Chhattisgarh,P
+Ahmedabad University ,Ahmedabad ,2009,General ,Gujrat,P
+Anant National University ,Ahmedabad ,2016,"Architecture, Planning ",Gujrat,P
+Atmiya University ,Rajkot ,2018,"Technology, Management ",Gujrat,P
+AURO University,Surat ,2011,General ,Gujrat,P
+C. U. Shah University ,Wadhwan ,2013,General ,Gujrat,P
+CEPT University,Ahmedabad ,2005,"Architecture, Planning ",Gujrat,P
+Charotar University of Science and Technology ,Changa ,2009,"Technology, Management ",Gujrat,P
+Dhirubhai Ambani Institute of Information and Communication Technology ,Gandhinagar ,2003,Technology ,Gujrat,P
+Ganpat University ,Mehsana ,2005,General ,Gujrat,P
+Gujarat Maritime University ,Gandhinagar ,2017,Maritime ,Gujrat,P
+Gokul Global University ,Siddhpur ,2018,General ,Gujrat,P
+GLS University ,Ahmedabad ,2015,General ,Gujrat,P
+GSFC University ,Vadodara ,2014,Engineering ,Gujrat,P
+"Indian Institute of Public Health, Gandhinagar ",Gandhinagar ,2015,Public health ,Gujrat,P
+Indrashil University ,Ahmedabad ,2017,"Engineering, Sciences ",Gujrat,P
+Indus University ,Ahmedabad ,2012,General ,Gujrat,P
+Institute of Advanced Research ,Gandhinagar ,2011,General ,Gujrat,P
+ITM Vocational University ,Waghodia ,2014,General ,Gujrat,P
+Kadi Sarva Vishwavidyalaya ,Gandhinagar ,2007,General ,Gujrat,P
+Karnavati University ,Gandhinagar ,2017,General ,Gujrat,P
+Lakulish Yoga University ,Gandhinagar ,2013,Yoga ,Gujrat,P
+Marwadi University ,Rajkot ,2016,General ,Gujrat,P
+Navrachana University ,Vadodara ,2009,General ,Gujrat,P
+Nirma University ,Ahmedabad ,2003,Technology ,Gujrat,P
+P P Savani University ,Kosamba ,2017,General ,Gujrat,P
+Pandit Deendayal Petroleum University ,Gandhinagar ,2007,Energy ,Gujrat,P
+Parul University ,Vadodara ,2015,General ,Gujrat,P
+Plastindia International University ,Vapi ,2016,Plastics engineering ,Gujrat,P
+Rai University ,Ahmedabad ,2012,General ,Gujrat,P
+RK University ,Rajkot ,2011,General ,Gujrat,P
+Sabarmati University ,Ahmedabad ,2009,General ,Gujrat,P
+Sankalchand Patel University ,Visnagar ,2016,General ,Gujrat,P
+Swarnim Startup & Innovation University ,Gandhinagar ,2017,General ,Gujrat,P
+TeamLease Skills University ,Vadodara ,2013,General ,Gujrat,P
+Uka Tarsadia University ,Bardoli ,2011,General ,Gujrat,P
+Al-Falah University ,Faridabad ,2014,General ,Haryana,P
+"Amity University, Gurgaon ",Pachgaon ,2010,General ,Haryana,P
+Ansal University ,Gurgaon ,2012,General ,Haryana,P
+Apeejay Stya University ,Sohna ,2010,General ,Haryana,P
+Ashoka University ,Sonepat ,2014,General ,Haryana,P
+Baba Mast Nath University ,Rohtak ,2012,General ,Haryana,P
+BML Munjal University ,Sidhrawali ,2014,"Technology, Management ",Haryana,P
+GD Goenka University ,Gurgaon ,2013,General ,Haryana,P
+IILM University ,Gurgaon ,2018,Management ,Haryana,P
+"Jagan Nath University, NCR ",Jhajjar ,2013,General ,Haryana,P
+K.R. Mangalam University ,Gurgaon ,2013,General ,Haryana,P
+"Maharishi Markandeshwar University, Sadopur ",Ambala ,2010,General ,Haryana,P
+Manav Rachna University ,Faridabad ,2014,"Technology, Management ",Haryana,P
+MVN University ,Palwal ,2012,General ,Haryana,P
+NIILM University ,Kaithal ,2011,"Technology, Management ",Haryana,P
+O. P. Jindal Global University,Sonipat ,2009,General ,Haryana,P
+PDM University ,Bahadurgarh ,2016,General ,Haryana,P
+Shree Guru Gobind Singh Tricentenary University ,Gurgaon ,2013,General ,Haryana,P
+"SRM University, Haryana ",Sonepat ,2013,General ,Haryana,P
+Starex University ,Gurgaon ,2016,General ,Haryana,P
+The NorthCap University ,Gurgaon ,2009,"Technology, Management ",Haryana,P
+World University of Design ,Sonipat ,2018,"Design, Management ",Haryana,P
+Abhilashi University ,Mandi ,2015,General ,Himachal Pradesh,P
+Alakh Prakash Goyal University ,Shimla ,2012,General ,Himachal Pradesh,P
+Arni University ,Kangra ,2009,General ,Himachal Pradesh,P
+Baddi University of Emerging Sciences and Technologies ,Baddi ,2009,Technology ,Himachal Pradesh,P
+Bahra University ,Waknaghat ,2011,General ,Himachal Pradesh,P
+"Career Point University, Hamirpur ",Bhoranj ,2012,General ,Himachal Pradesh,P
+"Chitkara University, Himachal Pradesh ",Solan ,2009,"Technology, Applied Science ",Himachal Pradesh,P
+Eternal University ,Baru Sahib ,2008,General ,Himachal Pradesh,P
+"ICFAI University, Himachal Pradesh ",Solan ,2011,"Technology, Management ",Himachal Pradesh,P
+IEC University ,Solan ,2012,General ,Himachal Pradesh,P
+Indus International University ,Haroli ,2010,General ,Himachal Pradesh,P
+Jaypee University of Information Technology ,Waknaghat ,2002,Information Technology ,Himachal Pradesh,P
+Maharaja Agrasen University ,Solan ,2013,General ,Himachal Pradesh,P
+"Maharishi Markandeshwar University, Solan ",Solan ,2010,General ,Himachal Pradesh,P
+Manav Bharti University ,Solan ,2009,General ,Himachal Pradesh,P
+Shoolini University of Biotechnology and Management Sciences ,Solan ,2009,Biotechnology ,Himachal Pradesh,P
+Sri Sai University ,Palampur ,2011,General ,Himachal Pradesh,P
+"AISECT University, Jharkhand ",Hazaribagh ,2016,General ,Jharkhand,P
+"Amity University, Jharkhand ",Ranchi ,2016,General ,Jharkhand,P
+Arka Jain University ,Jamshedpur ,2017,General ,Jharkhand,P
+"Capital University, Jharkhand ",Koderma ,2018,General ,Jharkhand,P
+"ICFAI University, Jharkhand ",Ranchi ,2008,Management ,Jharkhand,P
+Jharkhand Rai University ,Ranchi ,2012,General ,Jharkhand,P
+Netaji Subhas University ,Jamshedpur ,2018,Management ,Jharkhand,P
+Pragyan International University ,Ranchi ,2016,General ,Jharkhand,P
+Radha Govind University ,Ramgarh ,2018,General ,Jharkhand,P
+Sai Nath University ,Ranchi ,2012,General ,Jharkhand,P
+Sarala Birla University ,Ranchi ,2017,General ,Jharkhand,P
+Usha Martin University ,Ranchi ,2014,General ,Jharkhand,P
+YBN University ,Ranchi ,2017,General ,Jharkhand,P
+Adichunchanagiri University ,Mandya ,2018,General ,Karnataka,P
+Alliance University ,Bangalore ,2010,Management ,Karnataka,P
+Azim Premji University ,Bangalore ,2010,General ,Karnataka,P
+CMR University ,Bangalore ,2013,General ,Karnataka,P
+Dayananda Sagar University ,Bangalore ,2014,General ,Karnataka,P
+Garden City University ,Bangalore ,2013,General ,Karnataka,P
+Institute of Trans-Disciplinary Health Sciences and Technology ,Bangalore ,2013,Health Sciences ,Karnataka,P
+JSS Science and Technology University ,Mysore ,2016,Science and Technology ,Karnataka,P
+Khaja Bandanawaz University ,Kalaburagi ,2018,General ,Karnataka,P
+KLE Technological University ,Hubli ,2015,Technology ,Karnataka,P
+M. S. Ramaiah University of Applied Sciences ,Bangalore ,2013,General ,Karnataka,P
+PES University ,Bangalore ,2013,General ,Karnataka,P
+Rai Technology University ,Bangalore ,2014,General ,Karnataka,P
+REVA University ,Bangalore ,2013,General ,Karnataka,P
+Presidency University ,Bangalore ,2013,"Technology, Management ",Karnataka,P
+Sharnbasva University ,Kalaburagi ,2017,General ,Karnataka,P
+Srinivas University ,Mangalore ,2015,General ,Karnataka,P
+AKS University ,Satna ,2011,"Agricultural, Technology ",Madhya Pradesh,P
+"Amity University, Gwalior ",Gwalior ,2010,General ,Madhya Pradesh,P
+Avantika University ,Ujjain ,2017,"Technology, Design ",Madhya Pradesh,P
+Bhabha University ,Bhopal ,2018,General ,Madhya Pradesh,P
+Dr. A.P.J. Abdul Kalam University ,Indore ,2016,General ,Madhya Pradesh,P
+"Dr. C.V. Raman University, Khandwa ",Khandwa ,2018,General ,Madhya Pradesh,P
+G.H. Raisoni University ,Chhindwara ,2016,General ,Madhya Pradesh,P
+"ITM University, Gwalior ",Gwalior ,2011,General ,Madhya Pradesh,P
+Jagran Lakecity University ,Bhopal ,2013,General ,Madhya Pradesh,P
+Jaypee University of Engineering and Technology ,Guna ,2010,Technology ,Madhya Pradesh,P
+LNCT University ,Bhopal ,2015,General ,Madhya Pradesh,P
+Mandsaur University ,Mandsaur ,2016,General ,Madhya Pradesh,P
+Oriental University ,Indore ,2011,General ,Madhya Pradesh,P
+People's University ,Bhopal ,2011,Healthcare ,Madhya Pradesh,P
+Rabindranath Tagore University ,Bhopal ,2010,General ,Madhya Pradesh,P
+RKDF University ,Bhopal ,2011,"Science, Technology ",Madhya Pradesh,P
+Sage University ,Indore ,2017,General ,Madhya Pradesh,P
+Sri Satya Sai University of Technology & Medical Sciences ,Madhya Pradesh ,2014,Medicine ,Madhya Pradesh,P
+Ajeenkya DY Patil University ,Pune ,2015,General ,Maharashtra,P
+"Amity University, Mumbai ",Mumbai ,2014,General ,Maharashtra,P
+MIT - World Peace University ,Pune ,2017,General ,Maharashtra,P
+FLAME University ,Pune ,2015,General ,Maharashtra,P
+"Sandip University, Nashik ",Nashik ,2015,General ,Maharashtra,P
+Sanjay Ghodawat University ,Kolhapur ,2017,General ,Maharashtra,P
+Spicer Adventist University ,Pune ,2014,General ,Maharashtra,P
+Symbiosis Skills and Open University ,Pune ,2017,General ,Maharashtra,P
+Vishwakarma University ,Pune ,2017,General ,Maharashtra,P
+Manipur International University ,Imphal ,2018,General ,Manipur,P
+Sangai International University ,Churachandpur ,2015,General ,Manipur,P
+CMJ University ,Shillong ,2009,General ,Meghalaya,P
+"Institute of Chartered Financial Analysts of India University, Meghalaya ",Tura ,2009,Management ,Meghalaya,P
+Mahatma Gandhi University ,Nongpoh ,2011,Management ,Meghalaya,P
+Martin Luther Christian University ,Shillong ,2005,General ,Meghalaya,P
+Techno Global University ,Shillong ,2008,Technology ,Meghalaya,P
+"University of Science and Technology, Meghalaya (USTM) ",Ri-Bhoi ,2008,"Technology, Management ",Meghalaya,P
+University of Technology and Management ,Shillong ,2011,"Technology, Management ",Meghalaya,P
+William Carey University ,Shillong ,2005,General ,Meghalaya,P
+"Institute of Chartered Financial Analysts of India University, Mizoram ",Aizawl ,2006,Management ,Mizoram,P
+The Global Open University Nagaland ,Dimapur ,2006,Distance education ,Nagaland,P
+"Institute of Chartered Financial Analysts of India University, Nagaland ",Dimapur ,2009,Management ,Nagaland,P
+St. Joseph University ,Dimapur ,2016,"Technology, Management ",Nagaland,P
+AIPH University ,Bhubaneswar ,2018,Public health ,Odisha,P
+ASBM University ,Bhubaneswar ,2019,Management ,Odisha,P
+Birla Global University ,Bhubaneswar ,2013,Social Sciences and Management ,Odisha,P
+Centurion University of Technology and Management,Bhubaneswar ,2010,"Technology, Management ",Odisha,P
+GIET University ,Gunupur ,2018,General ,Odisha,P
+Sri Sri University ,Cuttack ,2009,"Humanities, Social Sciences ",Odisha,P
+Xavier University ,Bhubaneswar ,2013,Social Sciences and Management ,Odisha,P
+"CT University, Punjab ",Ludhiana ,2017,General ,Punjab,P
+Desh Bhagat University ,Mandi Gobindgarh ,2012,General ,Punjab,P
+"Chitkara University, Punjab ",Rajpura ,2010,General ,Punjab,P
+Chandigarh University ,Gharuan ,2012,General ,Punjab,P
+Lovely Professional University ,Phagwara ,2006,General ,Punjab,P
+RIMT University ,Mandi Gobindgarh ,2015,General ,Punjab,P
+Sri Guru Granth Sahib World University ,Fatehgarh Sahib ,2008,General ,Punjab,P
+"Amity University, Jaipur ",Jaipur ,2008,General ,Rajasthan,P
+RNB Global University ,Bikaner ,2015,General ,Rajasthan,P
+"University of Engineering & Management (UEM), Jaipur ",Jaipur ,2012,General ,Rajasthan,P
+Bhagwant University ,Ajmer ,2008,Technology ,Rajasthan,P
+Dr. K.N.Modi University ,Newai ,2010,Technology ,Rajasthan,P
+Homoeopathy University ,Jaipur ,2010,Homoeopathy ,Rajasthan,P
+"ICFAI University, Jaipur ",Jaipur ,2011,Management ,Rajasthan,P
+Jagannath University ,Jaipur ,2008,General ,Rajasthan,P
+Jaipur National University ,Jaipur ,2007,General ,Rajasthan,P
+Vivekananda Global University ,Jaipur ,2012,General ,Rajasthan,P
+Jayoti Vidyapeeth Women's University ,Jaipur ,2008,Women's only ,Rajasthan,P
+Jodhpur National University ,Jodhpur ,2008,General ,Rajasthan,P
+JK Lakshmipat University ,Jaipur ,2011,"Technology, Management ",Rajasthan,P
+Madhav University ,Sirohi ,2014,General ,Rajasthan,P
+Mahatma Jyoti Rao Phoole University ,Jaipur ,2009,General ,Rajasthan,P
+Manipal University Jaipur ,Jaipur ,2011,General ,Rajasthan,P
+Mewar University,Chittorgarh ,2008,General ,Rajasthan,P
+NIIT University ,Neemrana ,2010,"Technology, Management ",Rajasthan,P
+Geetanjali University ,Udaipur ,2011,Medicine ,Rajasthan,P
+NIMS University ,Jaipur ,2008,General ,Rajasthan,P
+Pacific University ,Udaipur ,2010,General ,Rajasthan,P
+Pratap University ,Jaipur ,2011,General ,Rajasthan,P
+Raffles University ,Neemrana ,2011,General ,Rajasthan,P
+Singhania University ,Jhunjhunu ,2008,General ,Rajasthan,P
+Sir Padampat Singhania University ,Udaipur ,2008,"Technology, Management ",Rajasthan,P
+Sunrise University ,Alwar ,2011,General ,Rajasthan,P
+Suresh Gyan Vihar University ,Jaipur ,2008,General ,Rajasthan,P
+Shri Khushal Das University ,Hanumangarh ,2018,General ,Rajasthan,P
+"Institute of Chartered Financial Analysts of India University, Sikkim ",Gangtok ,2004,Management ,Sikkim,P
+Sikkim Manipal University ,Gangtok ,1995,General ,Sikkim,P
+Vinayaka Missions Sikkim University ,Gangtok ,2008,General ,Sikkim,P
+"Institute of Chartered Financial Analysts of India University, Tripura ",Agartala ,2004,Management ,Tripura,P
+"Amity University, Noida ",Noida ,2005,General ,Uttar Pradesh,P
+Babu Banarasi Das University ,Lucknow ,2010,General ,Uttar Pradesh,P
+Galgotias University ,Greater Noida ,2011,General ,Uttar Pradesh,P
+Sanskriti University ,Mathura ,2016,General ,Uttar Pradesh,P
+GLA University ,Mathura ,2010,"Technology, Management ",Uttar Pradesh,P
+IFTM University ,Moradabad ,2010,Technology ,Uttar Pradesh,P
+Integral University,Lucknow ,2004,Technology ,Uttar Pradesh,P
+Invertis University ,Bareilly ,2010,Technology ,Uttar Pradesh,P
+Jagadguru Rambhadracharya Handicapped University,Chitrakoot ,2001,Special ,Uttar Pradesh,P
+Mangalayatan University ,Aligarh ,2006,General ,Uttar Pradesh,P
+Mohammad Ali Jauhar University ,Rampur ,2006,General ,Uttar Pradesh,P
+Sharda University ,Greater Noida ,2009,General ,Uttar Pradesh,P
+Shiv Nadar University ,Greater Noida ,2011,General ,Uttar Pradesh,P
+Shobhit University ,Gangoh ,2012,General ,Uttar Pradesh,P
+Shri Venkateshwara University ,Gajraula ,2010,Technology ,Uttar Pradesh,P
+Swami Vivekanand Subharti University ,Meerut ,2008,General ,Uttar Pradesh,P
+Teerthanker Mahaveer University ,Moradabad ,2008,General ,Uttar Pradesh,P
+IIMT University ,Meerut ,2016,General ,Uttar Pradesh,P
+The Glocal University,Saharanpur ,2012,General ,Uttar Pradesh,P
+Dev Sanskriti Vishwavidyalaya ,Haridwar ,2002,General ,Uttarakhand,P
+DIT University ,Dehradun ,2013,Technology ,Uttarakhand,P
+Graphic Era Hill University ,Dehradun ,2011,General ,Uttarakhand,P
+Himalayan Garhwal University ,Pauri Garhwal ,2016,General ,Uttarakhand,P
+Himgiri Zee University ,Dehradun ,2003,General ,Uttarakhand,P
+Swami Rama Himalayan University ,Dehradun ,2012,"Medicine, Technology ",Uttarakhand,P
+"ICFAI University, Dehradun ",Dehradun ,2003,General ,Uttarakhand,P
+University of Petroleum and Energy Studies ,Dehradun ,2003,Energy ,Uttarakhand,P
+University of Patanjali ,Haridwar ,2002,Yoga ,Uttarakhand,P
+Quantum University ,Roorkee ,2017,"Technology, Management ",Uttarakhand,P
+Shri Guru Ram Rai University ,Dehradun ,2017,Medicine ,Uttarakhand,P
+Techno India University ,"New Town, Kolkata ",2012,"Technology, Management ",West Bengal,P
+Adamas University ,Barasat ,2014,"Technology, Management ",West Bengal,P
+JIS University ,Agarpara ,2014,"Technology, Management ",West Bengal,P
+Brainware University ,Barasat ,2016,"Technology, Management, General ",West Bengal,P
+Seacom Skills University ,Birbhum ,2014,Technology ,West Bengal,P
+"University of Engineering & Management (UEM), Kolkata ","New Town, Kolkata ",2014,"Technology, Management ",West Bengal,P
+Neotia University ,Sarisha ,2015,General ,West Bengal,P
+"Amity University, Kolkata ","New Town, Kolkata ",2015,General ,West Bengal,P
+"St. Xavier's University, Kolkata ","New Town, Kolkata ",2017,"Management, General ",West Bengal,P
+Sister Nivedita University ,"New Town, Kolkata ",2017,"Technology, Management ",West Bengal,P
+Gandhi Institute of Technology and Management ,Visakhapatnam ,1980,"Technology, Management ",Andhra Pradesh ,D
+Koneru Lakshmaiah Education Foundation ,Vaddeswaram ,1980,"Technology, Management ",Andhra Pradesh ,D
+"Vignan's Foundation for Science, Technology & Research ",Guntur ,1997,Technology ,Andhra Pradesh ,D
+Sri Sathya Sai Institute of Higher Learning ,Anantapur ,1981,Multidisciplinary ,Andhra Pradesh ,D
+North Eastern Regional Institute of Science and Technology ,Itanagar ,1986,Technology ,Arunachal Pradesh ,D
+Nava Nalanda Mahavihara ,Nalanda ,1951,Buddhist Studies ,Bihar ,D
+Punjab Engineering College ,Chandigarh ,1921,Technology ,Chandigarh ,D
+Indian Agricultural Research Institute ,New Delhi ,1905,Agricultural Science ,Delhi ,D
+Indian Institute of Foreign Trade ,New Delhi ,1963,Management ,Delhi ,D
+Indian Law Institute ,New Delhi ,1956,Law ,Delhi ,D
+Institute of Liver and Biliary Sciences ,New Delhi ,2009,Medical Sciences ,Delhi ,D
+Jamia Hamdard ,New Delhi ,1948,Multidisciplinary ,Delhi ,D
+"National Museum Institute of the History of Art, Conservation and Museology ",New Delhi ,1983,Museology ,Delhi ,D
+National Institute of Educational Planning and Administration ,New Delhi ,1962,Education ,Delhi ,D
+TERI School of Advanced Studies ,New Delhi ,1998,Applied Science ,Delhi ,D
+Gujarat Vidyapith ,Ahmedabad ,1920,Multidisciplinary ,Gujarat ,D
+Sumandeep Vidyapeeth ,Waghodia ,1999,Medical Sciences ,Gujarat ,D
+Lingaya's Vidyapeeth ,Faridabad ,1998,"Technology, Management ",Haryana ,D
+Maharishi Markandeshwar (Deemed to be University) ,Ambala ,1993,Multidisciplinary ,Haryana ,D
+Manav Rachna International Institute of Research and Studies ,Faridabad ,1993,Technology ,Haryana ,D
+National Brain Research Centre ,Manesar ,1997,Neuroscience ,Haryana ,D
+National Dairy Research Institute ,Karnal ,1923,Dairy Research ,Haryana ,D
+"Birla Institute of Technology, Mesra ",Ranchi ,1955,Technology ,Jharkhand ,D
+BLDE (Deemed to be University) ,Bijapur ,2008,Medical Sciences ,Karnataka ,D
+Christ (Deemed to be University) ,Bangalore ,1969,Multidisciplinary ,Karnataka ,D
+Indian Institute of Science ,Bangalore ,1909,Science ,Karnataka ,D
+"International Institute of Information Technology, Bangalore ",Bangalore ,1999,Technology ,Karnataka ,D
+JSS Academy of Higher Education & Research ,Mysore ,2008,Medical Sciences ,Karnataka ,D
+Jain (Deemed to be University) ,Bangalore ,1990,Multidisciplinary ,Karnataka ,D
+Jawaharlal Nehru Centre for Advanced Scientific Research ,Bangalore ,1989,Science ,Karnataka ,D
+KLE Academy of Higher Education & Research ,Belgaum ,2006,Multidisciplinary ,Karnataka ,D
+Manipal Academy of Higher Education ,Manipal ,1953,Multidisciplinary ,Karnataka ,D
+NITTE (Deemed to be University) ,Mangalore ,2008,Medical Sciences ,Karnataka ,D
+Sri Devaraj Urs Academy of Higher Education and Research ,Kolar ,1986,Medical Sciences ,Karnataka ,D
+Sri Siddhartha Academy of Higher Education ,Tumkur ,2008,Medical Sciences ,Karnataka ,D
+Swami Vivekananda Yoga Anusandhana Samsthana ,Bangalore ,2002,Yoga ,Karnataka ,D
+Yenepoya (Deemed to be University) ,Mangalore ,1991,Medical Sciences ,Karnataka ,D
+Indian Institute of Space Science and Technology ,Thiruvananthapuram ,2007,Space Science ,Kerala ,D
+Kerala Kalamandalam ,Thrissur ,1930,Performing Arts ,Kerala ,D
+Lakshmibai National Institute of Physical Education ,Gwalior ,1957,Physical Education ,Madhya Pradesh ,D
+Bharati Vidyapeeth ,Pune ,1964,Multidisciplinary ,Maharashtra ,D
+Central Institute of Fisheries Education ,Mumbai ,1961,Fisheries Science ,Maharashtra ,D
+D. Y. Patil Education Society ,Kolhapur ,1987,Medical Sciences ,Maharashtra ,D
+Datta Meghe Institute of Medical Sciences ,Wardha ,1950,Medical Sciences ,Maharashtra ,D
+Deccan College Post-Graduate and Research Institute ,Pune ,1821,Archeology and Linguistics ,Maharashtra ,D
+Defence Institute of Advanced Technology ,Pune ,1952,Technology ,Maharashtra ,D
+Dr. D. Y. Patil Vidyapeeth ,Pune ,1996,Medical Sciences ,Maharashtra ,D
+Gokhale Institute of Politics and Economics ,Pune ,1930,Economics ,Maharashtra ,D
+Homi Bhabha National Institute ,Mumbai ,2005,Science ,Maharashtra ,D
+Indira Gandhi Institute of Development Research ,Mumbai ,1987,Economics ,Maharashtra ,D
+Institute of Chemical Technology ,Mumbai ,1933,Technology ,Maharashtra ,D
+International Institute for Population Sciences ,Mumbai ,1956,Population Science ,Maharashtra ,D
+Krishna Institute of Medical Sciences ,Satara ,1982,Medical Sciences ,Maharashtra ,D
+MGM Institute of Health Sciences ,Navi Mumbai ,1982,Medical Sciences ,Maharashtra ,D
+Narsee Monjee Institute of Management Studies ,Mumbai ,1981,Multidisciplinary ,Maharashtra ,D
+Pravara Institute of Medical Sciences ,Ahmednagar ,1976,Medical Sciences ,Maharashtra ,D
+Symbiosis International ,Pune ,1971,Multidisciplinary ,Maharashtra ,D
+Tata Institute of Fundamental Research ,Mumbai ,1945,Science ,Maharashtra ,D
+Tata Institute of Social Sciences ,Mumbai ,1936,Social Science ,Maharashtra ,D
+Tilak Maharashtra Vidyapeeth ,Pune ,1921,Multidisciplinary ,Maharashtra ,D
+Kalinga Institute of Industrial Technology ,Bhubaneswar ,2004,Multidisciplinary ,Odisha ,D
+Siksha 'O' Anusandhan ,Bhubaneswar ,2007,Multidisciplinary ,Odisha ,D
+Sri Balaji Vidyapeeth ,Pondicherry ,2001,Medical Sciences ,Puducherry ,D
+Sant Longowal Institute of Engineering and Technology ,Sangrur ,1989,Technology ,Punjab ,D
+Thapar Institute of Engineering and Technology ,Patiala ,1956,Technology ,Punjab ,D
+Banasthali Vidyapith ,Tonk ,1935,Multidisciplinary ,Rajasthan ,D
+Birla Institute of Technology and Science ,Pilani ,1964,Technology ,Rajasthan ,D
+IIS (Deemed to be University) ,Jaipur ,1995,Multidisciplinary ,Rajasthan ,D
+Institute of Advanced Studies in Education ,Churu ,1950,Education ,Rajasthan ,D
+Jain Vishva Bharati Institute ,Ladnun ,1991,Jain Studies ,Rajasthan ,D
+Janardan Rai Nagar Rajasthan Vidyapeeth ,Udaipur ,1937,Multidisciplinary ,Rajasthan ,D
+LNM Institute of Information Technology ,Jaipur ,2003,Technology ,Rajasthan ,D
+Academy of Maritime Education and Training ,Chennai ,1993,Marine Science ,Tamil Nadu ,D
+Amrita Vishwa Vidyapeetham ,Coimbatore ,1994,Multidisciplinary ,Tamil Nadu ,D
+Avinashilingam Institute for Home Science and Higher Education for Women ,Coimbatore ,1957,Home Science ,Tamil Nadu ,D
+B.S. Abdur Rahman Crescent Institute of Science and Technology ,Chennai ,1984,Technology ,Tamil Nadu ,D
+Bharath Institute of Higher Education and Research ,Chennai ,1984,Multidisciplinary ,Tamil Nadu ,D
+Chennai Mathematical Institute ,Siruseri ,1989,Mathematics ,Tamil Nadu ,D
+Chettinad Academy of Research and Education ,Chengalpattu ,2005,Medical Sciences ,Tamil Nadu ,D
+Dr. M.G.R. Educational and Research Institute ,Chennai ,1988,Multidisciplinary ,Tamil Nadu ,D
+Gandhigram Rural Institute ,Dindigul ,1956,Rural Eduaction ,Tamil Nadu ,D
+Hindustan Institute of Technology and Science ,Chennai ,1985,Technology ,Tamil Nadu ,D
+Kalasalingam Academy of Research and Education ,Krishnankoil ,1984,Multidisciplinary ,Tamil Nadu ,D
+Karpagam Academy of Higher Education ,Coimbatore ,2008,Multidisciplinary ,Tamil Nadu ,D
+Karunya Institute of Technology and Sciences ,Coimbatore ,1986,Technology ,Tamil Nadu ,D
+Meenakshi Academy of Higher Education and Research ,Chennai ,2001,Medical Sciences ,Tamil Nadu ,D
+Noorul Islam Centre for Higher Education ,Kumarakovil ,1989,Multidisciplinary ,Tamil Nadu ,D
+Periyar Maniammai Institute of Science & Technology ,Vallam ,1988,Technology ,Tamil Nadu ,D
+Ponnaiyah Ramajayam Institute of Science and Technology ,Thanjavur ,1985,Technology ,Tamil Nadu ,D
+Sathyabama Institute of Science and Technology ,Chennai ,1987,Technology ,Tamil Nadu ,D
+Saveetha Institute of Medical And Technical Sciences ,Chennai ,1986,Multidisciplinary ,Tamil Nadu ,D
+"Shanmugha Arts, Science, Technology & Research Academy ",Thanjavur ,1984,Multidisciplinary ,Tamil Nadu ,D
+Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya ,Kanchipuram ,1993,Multidisciplinary ,Tamil Nadu ,D
+Sri Ramachandra Medical College and Research Institute ,Chennai ,1985,Medical Sciences ,Tamil Nadu ,D
+SRM Institute of Science and Technology ,Kanchipuram ,1985,Technology ,Tamil Nadu ,D
+St. Peter's Institute of Higher Education and Research ,Chennai ,1992,Technology ,Tamil Nadu ,D
+Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology ,Chennai ,2008,Technology ,Tamil Nadu ,D
+"Vels Institute of Science, Technology & Advanced Studies ",Chennai ,1992,Technology ,Tamil Nadu ,D
+Vinayaka Mission's Research Foundation ,Salem ,1981,Multidisciplinary ,Tamil Nadu ,D
+Vellore Institute of Technology ,Vellore ,1984,Technology ,Tamil Nadu ,D
+ICFAI Foundation for Higher Education ,Hyderabad ,1995,"Technology, Management ",Telangana ,D
+"International Institute of Information Technology, Hyderabad ",Hyderabad ,1998,Technology ,Telangana ,D
+Bhatkhande Music Institute ,Lucknow ,1926,Music ,Uttar Pradesh ,D
+Central Institute of Higher Tibetan Studies ,Varanasi ,1967,Tibetan Studies ,Uttar Pradesh ,D
+Dayalbagh Educational Institute ,Agra ,1917,Multidisciplinary ,Uttar Pradesh ,D
+Indian Veterinary Research Institute ,Bareilly ,1889,Veterinary Science ,Uttar Pradesh ,D
+Jaypee Institute of Information Technology ,Noida ,2001,Technology ,Uttar Pradesh ,D
+Nehru Gram Bharati ,Allahabad ,1962,Multidisciplinary ,Uttar Pradesh ,D
+Santosh (Deemed to be University) ,Ghaziabad ,1995,Medical Sciences ,Uttar Pradesh ,D
+Shobhit Institute of Engineering & Technology ,Meerut ,2000,Technology ,Uttar Pradesh ,D
+Forest Research Institute ,Dehradun ,1906,Forestry ,Uttarakhand ,D
+Graphic Era (Deemed to be University) ,Dehradun ,1993,"Technology, Management ",Uttarakhand ,D
+Gurukul Kangri Vishwavidyalaya ,Haridwar ,1902,Multidisciplinary ,Uttarakhand ,D
+Ramakrishna Mission Vivekananda Educational and Research Institute ,Belur ,2005,Multidisciplinary ,West Bengal ,D
+Padmashree Dr. D. Y. Patil Vidyapeeth ,Navi Mumbai ,2002,Medical Sciences ,Maharashtra ,D
+Central Institute of Buddhist Studies ,Leh ,1959,Buddhist Studies ,Jammu & Kashmir ,D
+Chinmaya Vishwavidyapeeth ,Ernakulam ,2016,Indic Studies ,Kerala ,D
+National Institute of Food Technology Entrepreneurship and Management ,Sonipat ,2006,Food Sciences ,Haryana ,D
+Indian Association for the Cultivation of Science ,Kolkata ,1876,Sciences ,West Bengal ,D
+National Rail and Transportation Institute ,Vadodra ,2018,Railway Education ,Gujarat ,D
+Kalinga Institute of Social Sciences ,Bhubaneswar ,1993,Tribal Education ,Odisha ,D
+Central University of Andhra Pradesh,Anantapur ,2019,General ,Andhra Pradesh ,C
+Rajiv Gandhi University ,Itanagar ,1985,General ,Arunachal Pradesh ,C
+Assam University ,Silchar ,1994,General ,Assam ,C
+Tezpur University ,Tezpur ,1994,General ,Assam ,C
+Central University of South Bihar ,Gaya ,2009,General ,Bihar ,C
+Mahatma Gandhi Central University ,Motihari ,2016,General ,Bihar ,C
+Nalanda University,"Rajgir, Nalanda ",2010,General ,Bihar ,C
+Dr. Rajendra Prasad Central Agriculture University,"Pusa, Samastipur ",1905,Agriculture ,Bihar ,C
+Guru Ghasidas Vishwavidyalaya ,Bilaspur ,1983,General ,Chhattisgarh ,C
+Indira Gandhi National Open University,New Delhi ,1985,Distance education ,Delhi ,C
+Jamia Millia Islamia ,New Delhi ,1920,General ,Delhi ,C
+"Jawaharlal Nehru University, Delhi ",New Delhi ,1969,General ,Delhi ,C
+South Asian University,New Delhi ,2010,International university ,Delhi ,C
+University of Delhi ,New Delhi ,1922,General ,Delhi ,C
+Central University of Gujarat,Gandhinagar ,2009,General ,Gujarat ,C
+Central University of Haryana,Mahendragarh ,2009,General ,Haryana ,C
+Central University of Himachal Pradesh,Dharamsala ,2009,General ,Himachal Pradesh ,C
+Central University of Jammu,Jammu ,2011,General ,Jammu and Kashmir ,C
+Central University of Kashmir,Srinagar ,2009,General ,Jammu and Kashmir ,C
+Central University of Jharkhand,Ranchi ,2009,General ,Jharkhand ,C
+Central University of Karnataka,Kalaburagi ,2009,General ,Karnataka ,C
+Central University of Kerala,Kasaragod ,2009,General ,Kerala ,C
+Dr. Hari Singh Gour University ,Sagar ,1946,General ,Madhya Pradesh ,C
+Indira Gandhi National Tribal University ,Amarkantak ,2007,General ,Madhya Pradesh ,C
+Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya ,Wardha ,1997,Hindi language ,Maharashtra ,C
+Central Agricultural University,Imphal ,1993,Agriculture ,Manipur ,C
+Manipur University ,Imphal ,1980,General ,Manipur ,C
+National Sports University,Imphal ,2018,Sports ,Manipur ,C
+North Eastern Hill University ,Shillong ,1973,General ,Meghalaya ,C
+Mizoram University ,Aizawl ,2000,General ,Mizoram ,C
+Nagaland University ,Lumami ,1994,General ,Nagaland ,C
+Central University of Odisha,Koraput ,2009,General ,Odisha ,C
+Pondicherry University ,Pondicherry ,1985,General ,Puducherry ,C
+Central University of Punjab,Bathinda ,2009,General ,Punjab ,C
+Central University of Rajasthan,Ajmer ,2009,General ,Rajasthan ,C
+Sikkim University ,Gangtok ,2007,General ,Sikkim ,C
+Central University of Tamil Nadu,Tiruvarur ,2009,General ,Tamil Nadu ,C
+Indian Maritime University,Chennai ,2008,Marine science ,Tamil Nadu ,C
+English and Foreign Languages University ,Hyderabad ,1958,English and Foreign languages ,Telangana,C
+Maulana Azad National Urdu University ,Hyderabad ,1998,Urdu language ,Telangana,C
+University of Hyderabad ,Hyderabad ,1974,General ,Telangana,C
+Tripura University ,Agartala ,1987,General ,Tripura ,C
+Aligarh Muslim University ,Aligarh ,1920,General ,Uttar Pradesh ,C
+University of Allahabad ,Prayagraj ,1887,General ,Uttar Pradesh ,C
+Babasaheb Bhimrao Ambedkar University ,Lucknow ,1996,General ,Uttar Pradesh ,C
+Banaras Hindu University ,Varanasi ,1916,General ,Uttar Pradesh ,C
+Rajiv Gandhi National Aviation University,Raebareli ,2013,Aviation Science ,Uttar Pradesh ,C
+Rani Lakshmi Bai Central Agricultural University,Jhansi ,2014,Agriculture ,Uttar Pradesh ,C
+Hemwati Nandan Bahuguna Garhwal University ,Srinagar ,1973,General ,Uttarakhand ,C
+Visva-Bharati University ,Santiniketan ,1921,General ,West Bengal ,C
